@@ -1,0 +1,15 @@
+This program use 01 knapsack algorithm to make shopping decision. Assume that a shopping store is having a contest to give away shopping sprees to lucky families. If a family wins a shopping spree each person in the family can take any items that he or she can carry out. Each item has a price and a weight and each person in the family has a limit in the total weight they can carry. This program is to help the families select items for each person to carry to maximize the total price of all items the family takes. The program will read the input file named shopping.txt, which consists of T test cases. 
+T (test cases) is given on the first line of the input file. Each test case begins with a line containing a single integer number N that indicates the number of items in that test case.
+Followed by N lines, each containing two integers: P and W. P corresponds to the price of object and W corresponds to the weight of object.
+The next line contains one integer F which is the number of people in the family.
+The next F lines contains the maximum weight M that can be carried by the ith person in the family. 
+The final output will be written in a file named result.txt
+
+
+Use command make to compile the program.
+Use the below command to run the program.
+	./sp
+	
+
+
+
